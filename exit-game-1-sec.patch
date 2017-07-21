@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="exit-game-waiting-time" value="10.000000" />
+Replace = <option name="exit-game-waiting-time" value="1.000000" />
+Description = Set exit game delay to 1 second

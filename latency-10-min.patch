@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="show-duration" value="2.0" />
+Replace = <option name="show-duration" value="600.0" />
+Description = Show latency for 10 minutes

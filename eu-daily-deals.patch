@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="today-goods-reset-time" value="18" />
+Replace = <option name="today-goods-reset-time" value="2" />
+Description = Fix Daily Deals timer for EU

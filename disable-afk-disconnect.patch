@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="limit-time-for-user-away-status" value="600.000000" />
+Replace = <option name="limit-time-for-user-away-status" value="0.000000" />
+Description = Disable AFK disconnection

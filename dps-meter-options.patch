@@ -1,0 +1,16 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="show-public-zone" value="n" />
+Replace = <option name="show-public-zone" value="y" />
+Search = <option name="show-party-6-dungeon-and-cave" value="n" />
+Replace = <option name="show-party-6-dungeon-and-cave" value="y" />
+Search = <option name="show-field-zone" value="n" />
+Replace = <option name="show-field-zone" value="y" />
+Search = <option name="show-classic-field-zone" value="n" />
+Replace = <option name="show-classic-field-zone" value="y" />
+Search = <option name="show-faction-battle-field-zone" value="n" />
+Replace = <option name="show-faction-battle-field-zone" value="y" />
+Search = <option name="show-jackpot-boss-zone" value="n" />
+Replace = <option name="show-jackpot-boss-zone" value="y" />
+Search = <option name="show-effect-only-info" value="n" />
+Replace = <option name="show-effect-only-info" value="y" />
+Description = Enable all DPS meter options
