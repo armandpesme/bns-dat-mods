@@ -1,4 +1,0 @@
-FileName = config[bit].dat.files\\system.config2.xml
-Search = <option name="use-boast-event" value="true" />
-Replace = <option name="use-boast-event" value="false" />
-Description = Disable the humble brag UI element
