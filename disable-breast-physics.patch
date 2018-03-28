@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="no-use-breast-physics" value="no" />
+Replace = <option name="no-use-breast-physics" value="yes" />
+Description = Disable breast physics
