@@ -16,6 +16,4 @@ I'm pretty sure no one has ever gotten banned for using harmless mods like
 these, but I take no responsibility if you do manage to get yourself banned
 somehow.
 
-Feel free to open an issue if you have questions, suggestions, etc. That said,
-please don't ask me about editing your global cooldown value. I personally find
-that unethical.
+Feel free to open an issue if you have questions, suggestions, etc.
