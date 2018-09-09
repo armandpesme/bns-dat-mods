@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="levelgap-awful-monster" value="4" />
+Replace = <option name="levelgap-awful-monster" value="6" />
+Search = <option name="levelgap-veryveryweak-monster" value="-4" />
+Replace = <option name="levelgap-veryveryweak-monster" value="-5" />
+Description = Fix monster level gaps
