@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="item-transform-progressing-particle-duration" value="3.0" />
+Replace = <option name="item-transform-progressing-particle-duration" value="1.0" />
+Description = Set transmute time to 1 second
