@@ -1,0 +1,8 @@
+FileName = config[bit].dat.files\\system.config2.xml
+Search = <option name="send-network-latency-period" value="60" />
+Replace = <option name="send-network-latency-period" value="0" />
+Search = <option name="send-ping-period" value="30" />
+Replace = <option name="send-ping-period" value="60" />
+Search = <option name="bad-ping-tolerance" value="300" />
+Replace = <option name="bad-ping-tolerance" value="500" />
+Description = Makes the latency UI update more accurately
