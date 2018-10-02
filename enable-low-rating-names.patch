@@ -1,4 +1,4 @@
 FileName = xml[bit].dat.files\\client.config2.xml
 Search = <option name="hidden-pc-name-rating" value="160000" />
 Replace = <option name="hidden-pc-name-rating" value="0" />
-Description = Enable showing names of opponents below 1600 rating.
+Description = Enable showing names of opponents below 1600 rating

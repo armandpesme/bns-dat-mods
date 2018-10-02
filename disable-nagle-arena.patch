@@ -1,4 +1,4 @@
 FileName = config[bit].dat.files\\system.config2.xml
 Search = <option name="use-nagle-arena" value="true" />
 Replace = <option name="use-nagle-arena" value="false" />
-Description = Disable Nagle's algorithm in arena
+Description = Disable Nagle's algorithm in arena and cross-server dungeons
